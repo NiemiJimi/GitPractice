@@ -14,3 +14,5 @@ Unity version: 6000.2.7f2
 
 \- W A S D: move
 
+\- Space: jump (coming soon)
+
