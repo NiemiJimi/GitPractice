@@ -5,6 +5,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed = 6f;
     public float jumpForce = 5f;
+    public float gravity = -9.81f;
+
     void Update()
     {
         var keyboard = Keyboard.current;
