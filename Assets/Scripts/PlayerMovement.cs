@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 6f;
-
+    public float jumpForce = 5f;
     void Update()
     {
         var keyboard = Keyboard.current;
