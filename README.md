@@ -16,3 +16,11 @@ Unity version: 6000.2.7f2
 
 \- Space: jump (coming soon)
 
+
+
+\## Coming next
+
+\- Jumping
+
+\- Collectible coins
+
