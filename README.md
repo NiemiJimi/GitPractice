@@ -1,32 +1,19 @@
-\# GitPractice
-
-
+# GitPractice
 
 Practice project for learning Git with Unity.
 
-
-
 Unity version: 6000.2.7f2
 
+## Controls
+- W A S D: move
+- Space: jump (coming soon)
 
+## HUD
+- Score in the top left corner
 
-\## Controls
+## Coming next
+- Jumping
+- Collectible coins
 
-\- W A S D: move
-
-\- Space: jump (coming soon)
-
-
-
-\## Coming next
-
-\- Jumping
-
-\- Collectible coins
-
-
-
-\## HUD
-
-\- Score in the top left corner
-
+## Contributing
+See CONTRIBUTING.md before your first commit.
