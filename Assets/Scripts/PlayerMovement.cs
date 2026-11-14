@@ -18,6 +18,11 @@ public class PlayerMovement : MonoBehaviour
         if (keyboard.aKey.isPressed) move.x -= 1;
         if (keyboard.dKey.isPressed) move.x += 1;
 
+       if (keyboard.spaceKey.wasPressedThisFrame)
+        {
+            Debug.Log("Jump pressed (force: " + jumpForce + ")");
+        }
+
         transform.position += move.normalized * speed * Time.deltaTime;
     
 }
