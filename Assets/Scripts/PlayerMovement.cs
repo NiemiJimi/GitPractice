@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5f;
     public float jumpForce = 5f;
+    public int score = 0;
 
     void Update()
     {

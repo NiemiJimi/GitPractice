@@ -24,3 +24,9 @@ Unity version: 6000.2.7f2
 
 \- Collectible coins
 
+
+
+\## HUD
+
+\- Score in the top left corner
+
