@@ -1,0 +1,9 @@
+# Default reviewer for everything
+*                    @NiemiJimi
+
+# Area owners (replace with teammates or teams later)
+/Assets/Scripts/     @NiemiJimi
+/Assets/Scenes/      @NiemiJimi
+/ProjectSettings/    @NiemiJimi
+/.gitattributes      @NiemiJimi
+/.github/            @NiemiJimi
